@@ -1,0 +1,22 @@
+<european_leagues>
+	<league>
+		<name>English Premier League</name>
+		<country>England</country>
+	</league>
+	<league>
+		<name>La Liga</name>
+		<country>Spain</country>
+	</league>
+	<league>
+		<name>Bundesliga</name>
+		<country>Germany</country>
+	</league>
+	<league>
+		<name>Serie A</name>
+		<country>Italy</country>
+	</league>
+	<league>
+		<name>League 1</name>
+		<country>France</country>
+	</league>
+</european_leagues>
