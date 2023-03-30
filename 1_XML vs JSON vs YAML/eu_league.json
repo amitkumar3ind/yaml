@@ -1,0 +1,24 @@
+{
+	"european_leagues": [
+		{
+			"name": "English Premier League",
+			"country": "England"
+		},
+		{
+			"name": "La Liga",
+			"country": "Spain"
+		},
+		{
+			"name": "Bundesliga",
+			"country": "Germany"
+		},
+		{
+			"name": "Serie A",
+			"country": "Italy"
+		},
+		{
+			"name": "League 1",
+			"country": "France"
+		}
+	]
+}
